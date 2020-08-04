@@ -2,6 +2,8 @@
 
 A full gmail clone app with flutter and firebase as backend
 
+# Youtube
+* Full Youtube tutorial is available at my channel: https://www.youtube.com/channel/UC5yJU9t_H_SocrBPotxLxfg 
 ## Features
 
 * Users can authenticate
